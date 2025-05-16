@@ -1,0 +1,1 @@
+Estoy estudiando Python y este es mi primer proyecto en GitHub y en Python. Consiste en una calculadora de costos, que indica a un campesino el valor y cantidad de insumos por hectárea para su cultivo.
